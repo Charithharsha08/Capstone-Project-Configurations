@@ -5,8 +5,8 @@ spring:
 
   datasource:
     url: jdbc:postgresql://localhost:5432/db-capstone
-    username: postgres
-    password: psql
+    username: root
+    password: Ijse@123
     driver-class-name: org.postgresql.Driver
 
   jpa:
